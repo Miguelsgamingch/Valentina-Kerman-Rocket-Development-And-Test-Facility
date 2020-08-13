@@ -1,3 +1,4 @@
+I Accidentaly Put Valentina RD&TF .cfg Files to gamedata, those are all kerbal kosntructs files.
 # Valentina-Kerman-Rocket-Development-And-Test-Facility
 A Kerbal Konstructs Add-On
 

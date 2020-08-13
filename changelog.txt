@@ -3,3 +3,11 @@ V0.2 DEV
 
 V0.2.1 DEV
 * Fixed Zip File
+
+v0.3 DEV
+Major:
+-Added Dependencies
+-Added Mission Control (Now called Mini Launch Control Centre) With Vehicle Spawn Behind.
+Minor:
+-Added Trees For Scenery
+-Removed Logo File

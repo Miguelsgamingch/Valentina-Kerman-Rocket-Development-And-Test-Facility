@@ -1,0 +1,18 @@
+{
+	"NAME": "Valentina Rocket Development and Test Facility",
+	"URL": "https://raw.githubusercontent.com/damonvv/KSC-Extended/master/GameData/KSCExtended/Version/KSC_Extended.version",
+	"DOWNLOAD": "https://forum.kerbalspaceprogram.com/index.php?/topic/196046-110x-valentina-kerman-rocket-development-and-test-facility-development/",
+	"VERSION":
+	{
+		"MAJOR": 0,
+		"MINOR": 4,
+		"PATCH": 0,
+		"BUILD": 0
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR": 1,
+		"MINOR": 10,
+		"PATCH": 1
+	}
+}

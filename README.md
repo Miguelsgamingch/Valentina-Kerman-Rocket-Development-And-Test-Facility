@@ -1,3 +1,5 @@
+# ANNOUNCEMENT
+### I Am Not Going to develop this mod anymore, dont ask me to fix this [bug] or update to ksp [version]
 # Valentina-Kerman-Rocket-Development-And-Test-Facility
 A Kerbal Konstructs Add-On
 

@@ -1,15 +1,48 @@
+**Valentina Kerman Rocket Development And Test Facility Weekly Update Changelog**
+
 V0.2 DEV
 * Public Beta Release
 
 V0.2.1 DEV
 * Fixed Zip File
 
-v0.3 DEV
-Major:
--Added Dependencies
--Added Mission Control (Now called Mini Launch Control Centre) With Vehicle Spawn Behind.
-Minor:
--Added Trees For Scenery
+V0.3 DEV
+Major: 
+-Added Dependencies 
+-Added Mission Control (Now called Mini Launch Control Centre) With Vehicle Spawn Behind. 
+Minor: 
+-Added Trees For Scenery 
 -Removed Logo File
 
+V0.4 DEV
+Major:
+-Added Two Helipad, Currently Un-Accesible Or Not A Launchpad.
+-Added Launchpad 2
+-Added Research And Development
+Minor:
+None
 
+V0.5 DEV
+Major:
+-John Kerman Viewing Area (For Kerbal Visitors And Media)
+Minor:
+-Issue #1 On Github: Launchpad 1B Floating Now Fixed.
+For More Details: https://github.com/Miguelsgamingch/Valentina-Kerman-Rocket-Development-And-Test-Facility/issues/1
+-Other Bug Fixes Not Mention In Github.
+
+V0.6 DEV
+Major:
+-Added Launchpad 3 #3 
+-Added Rocket History Museum
+Minor:
+-Minor Bugfixes
+
+V0.6.1 DEV
+-Fixed .Version File
+-Interegation With AVC Addon-Checker
+-Last Batch Of Bug Fixes
+
+@Copyright Miguelsgamingch 2020
+This Mod Uses Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) For All .cfg Files,
+Otherelse Are All Rights Reserved.
+For More Info Visit Creative Commons: https://creativecommons.org/licenses/by-nc-sa/4.0/

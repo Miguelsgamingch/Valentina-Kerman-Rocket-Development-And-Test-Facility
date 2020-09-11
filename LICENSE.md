@@ -1,3 +1,6 @@
+ Attribution-NonCommercial-ShareAlike 4.0 International
+===================================
+
 Valentina Kerman Rocket Development And Test Facility Licensed Under The CC BY-NC-SA 4.0 License,
 This Includes The .cfg Files.
 
